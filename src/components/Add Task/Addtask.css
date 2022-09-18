@@ -1,0 +1,23 @@
+.form{
+    display: grid;
+    place-items: center;
+}
+.blue-btn{
+    background-color:blue;
+    color:white;
+    padding: 5px 10px;
+    font-weight:bolder;
+    margin:20px auto;
+}
+input[type="text"]{
+    min-width:450px;
+    height: 30px;
+}
+input{
+    margin:20px auto;
+}
+textarea{
+    min-height:100px;
+    font-size:20px;
+    
+}

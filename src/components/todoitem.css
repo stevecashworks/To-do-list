@@ -1,0 +1,15 @@
+.todo-item{
+    height:150px;
+    width:300px;
+    background-color: white;
+    cursor:move;
+    position:relative;
+    border-radius:40px;
+    display: flex;
+    flex-direction: column;
+     gap:10px;
+     align-items:center;
+     justify-content: center;
+
+    
+}
